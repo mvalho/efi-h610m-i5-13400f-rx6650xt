@@ -2,12 +2,19 @@
 
 ## Machine Hardware
 CPU MODEL: 			13th Gen Intel(R) Core(TM) i5-13400F Raptor Lake
+
 GPU MODEL:			[AMD/ATI] Navi 23 [Radeon RX 6650 XT / 6700S / 6800S] (rev c1)
+
 CHIPSET:			H610M K DDR4
+
 AUDIO MODEL:			ALC897 Analog [ALC897 Analog]
+
 NETWORK WIFI:			Broadcom Inc. and subsidiaries BCM4360 802.11ac Dual Band Wireless Network Adapter (rev 03)
+
 NETWORK LAN:			RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller
+
 DISK INFO:			CT1000P3PSSD8
+
 
 ## Before Install 
 Use folder EFI-Install, as this is a small version make to only the install process.
